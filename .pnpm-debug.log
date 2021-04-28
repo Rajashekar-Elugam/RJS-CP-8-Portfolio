@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_SCRIPT",
+    "err": {
+      "name": "Error",
+      "message": "Missing script: instll",
+      "code": "ERR_PNPM_NO_SCRIPT",
+      "stack": "Error: Missing script: instll\n    at Object.handler (/usr/local/pnpm-global/5/node_modules/.pnpm/pnpm@6.2.1/node_modules/pnpm/dist/pnpm.cjs:122394:13)\n    at async Timeout._onTimeout (/usr/local/pnpm-global/5/node_modules/.pnpm/pnpm@6.2.1/node_modules/pnpm/dist/pnpm.cjs:126265:22)"
+    }
+  }
+}
